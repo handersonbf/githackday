@@ -57,7 +57,12 @@ Git Hub
 Fazer fork do projeto, clonar.
 Comita, push, e no site do git hub push request
 
-clonar
+sempre que criar um arquivo fazer git add nomearquivo ou git add .
+depois commit só então push caso queira enviar logo para o servidor "pai"
+
+
+para baixar
+git pull http://github.com/jeffersongirao/githackday.git origin master
 
 
 
