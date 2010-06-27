@@ -53,7 +53,9 @@ clone branch remoto para um branch local
 git checkout -b meuremoto origin/test
 git pull
 
-clonar
+Git Hub
+Fazer fork do projeto, clonar.
+Comita, push, e no site do git hub push request
 
 
 
