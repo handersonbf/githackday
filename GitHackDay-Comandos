@@ -1,0 +1,65 @@
+mkdir githackday
+cd githackday
+git init
+git status
+touch test1
+git status
+git add
+git status
+git commit -a -m "Primeiro commit"
+git log
+touch test2
+git status
+git add test2
+git commit -a -m ''Segundo commit'
+git log
+git rm test1 --cached //nao remove localmente
+git status
+git commit -a -m 'Terceiro commit'
+git log
+git reset --hard HEAD~ //volta para a versão pai, no caso o segundo commit
+git log
+git status
+git checkout -b test
+git reset --hard HEAD~
+git log
+git checkout master
+git log 
+selecionar e copiar o hash do primeiro commit do master
+git checkout test
+git cherry-pick cloarhash
+git log
+
+http://github.com
+new repository
+githackday
+
+git remote add origin git@github.com:jeffersongirao/githackday.git
+git push origin master
+
+
+touch teste3
+git commit -a -m "outro commit"
+git pull --rebase origin master
+git push origin master
+
+
+criar e clonar branch remoto
+git remote add origin git@github.com:jeffersongirao/githackday.git
+git branch -a
+git push origin test
+
+clone branch remoto para um branch local
+git checkout -b meuremoto origin/test
+git pull
+
+clonar
+
+
+
+
+
+
+
+
+
