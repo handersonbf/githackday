@@ -1,0 +1,136 @@
+commit 428d49fc6dee2a9ac6270b4724538afa3a7f7bcd
+Author: Handerson Frota <handersonbf@gmail.com>
+Date:   Sun Jun 27 12:04:07 2010 -0300
+
+    enviando
+
+commit e91da158ef35e99a328249da49bb5c3250ae5d07
+Merge: 5175df0 5867fa5
+Author: Handerson Frota <handersonbf@gmail.com>
+Date:   Sun Jun 27 11:59:09 2010 -0300
+
+    Merge branch 'master' of http://github.com/jeffersongirao/githackday
+    
+    Conflicts:
+    	GitHackDay-Comandos
+
+commit 5867fa522c130420a92d1e2bb2bfccf60d59a487
+Author: Jefferson Girao <contato@jefferson.eti.br>
+Date:   Sun Jun 27 11:57:10 2010 -0300
+
+    README updated
+
+commit ffe6acd008da68f650b5287f95f6c38aebc9e8f3
+Author: rodrigo <rodrigo@metalgear.(none)>
+Date:   Sun Jun 27 22:39:14 2010 +0800
+
+    protesto: cafe?
+
+commit 5175df04ed4e9126007899fd9415c67ff425d2dc
+Author: rodrigo <rodrigo@metalgear.(none)>
+Date:   Sun Jun 27 22:39:14 2010 +0800
+
+    protesto: cafe?
+
+commit e515841e3325a6a0d8188057957847842e9b8bf5
+Author: Rafael Ponte <rponte@gmail.com>
+Date:   Sun Jun 27 22:37:22 2010 +0800
+
+    Rafael eh sesquisi
+
+commit 49d6493f8b5d0802650c6f1420fefbdfc455c653
+Author: Rodrigo Oliveira <rodrigo.dealer@gmail.com>
+Date:   Sun Jun 27 22:27:36 2010 +0800
+
+    Teste3 adicionado
+
+commit bc023224a727982d58e4a60a5e4948670b46aed1
+Author: Rafael Ponte <rponte@gmail.com>
+Date:   Sun Jun 27 22:37:22 2010 +0800
+
+    Rafael eh sesquisi
+
+commit e9e79a9fa0ab448f05be552192431fa3e71e3064
+Author: Handerson Frota <handersonbf@gmail.com>
+Date:   Sun Jun 27 11:35:13 2010 -0300
+
+    Autalizando
+
+commit 8a9451f442836585cbc33778b841d126ed43047a
+Author: Rodrigo Oliveira <rodrigo.dealer@gmail.com>
+Date:   Sun Jun 27 22:27:36 2010 +0800
+
+    Teste3 adicionado
+
+commit af7669d5a9bae531d954c06c4d4cebc9f804cd24
+Author: Handerson Frota <handersonbf@gmail.com>
+Date:   Sun Jun 27 22:28:50 2010 +0800
+
+    Dicas anotadas
+
+commit fd31d3631ad4e37e6a5a71a8e45b88de39445031
+Author: Handerson Frota <handersonbf@gmail.com>
+Date:   Sun Jun 27 11:28:50 2010 -0300
+
+    Dicas anotadas
+
+commit 4bcf546325a1a01f2b1728909b7839d53aa09c5a
+Author: Jefferson Girao <contato@jefferson.eti.br>
+Date:   Sun Jun 27 11:03:55 2010 -0300
+
+    Outro commit
+
+commit 0ad02a932ab5364809a5f713d0d8e5de657df54c
+Merge: ede13b0 e8d3784
+Author: cmilfont <cmilfont@gmail.com>
+Date:   Sun Jun 27 11:01:32 2010 -0300
+
+    Merge branch 'master' of git@github.com:jeffersongirao/githackday
+
+commit e8d3784cf8ac03fd39cb291a1c9eb17a58510461
+Author: Jefferson Girao <contato@jefferson.eti.br>
+Date:   Sun Jun 27 10:33:03 2010 -0300
+
+    Rodrigo com zelo
+
+commit 73a13d73f95eecd2677ac66d6d77f1659530a4a1
+Author: Jefferson Girao <contato@jefferson.eti.br>
+Date:   Sun Jun 27 10:26:32 2010 -0300
+
+    Ponte no Galba
+
+commit ede13b05d20898bc080a1c1e7f7f6e23abc4e44e
+Author: cmilfont <cmilfont@gmail.com>
+Date:   Sun Jun 27 10:22:14 2010 -0300
+
+    joga
+
+commit b540a7b43201ca1b6fa054d65cb4a9befa541124
+Author: Jefferson Girao <contato@jefferson.eti.br>
+Date:   Sun Jun 27 10:08:40 2010 -0300
+
+    Segundo commit
+
+commit 4d26f8ddde04eeb4a806eb4153e740777b4dd886
+Author: Jefferson Girao <contato@jefferson.eti.br>
+Date:   Sun Jun 27 10:07:13 2010 -0300
+
+    Primeiro Commit
+
+commit 5bc4bd9b32594ef27fb7433b081bf1573b6c31d3
+Author: cmilfont <cmilfont@gmail.com>
+Date:   Sun Jun 27 09:39:35 2010 -0300
+
+    inclui?
+
+commit 57d013c050c243dbd50629ab70743d389761e580
+Author: cmilfont <cmilfont@gmail.com>
+Date:   Sun Jun 27 09:37:02 2010 -0300
+
+    inclui o testeb?
+
+commit 2b2e4e80279d52f72445e8e958f066496c542b73
+Author: cmilfont <cmilfont@gmail.com>
+Date:   Sun Jun 27 09:35:15 2010 -0300
+
+    commit inicial
