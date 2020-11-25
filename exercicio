@@ -1,0 +1,45 @@
+<canvas id="meuCanvas" width="600" height="400"></canvas>
+<script>
+    var tela = document.getElementById("meuCanvas");
+    var pincel = tela.getContext("2d");
+
+    var circulo = function(x,y,raio, cor){
+        pincel.fillStyle = cor;
+        pincel.beginPath();
+        pincel.arc(x,y,raio,0,2*Math.PI);
+        pincel.fill();
+    }
+
+    var circuloVolta = function(z,y,raio, cor){
+        pincel.fillStyle = cor;
+        pincel.beginPath();
+        pincel.arc(z,y,raio,0,2*Math.PI);
+        pincel.fill();
+    }
+
+    var limpaTela = function(){
+        pincel.clearRect(0,0,600,400);
+    }
+    
+    var x = 1;
+    var z = 600;
+    console.log("x desenhar", x);
+    var desenhar = function(){
+        if(x < 600){
+            limpaTela();
+            circulo(x,100,50, "black");
+            x++;
+        }else{
+            limpaTela();
+            --z;
+            circulo(z,100,50, "green");
+        }
+
+        console.log("desenhar", x);
+    }
+    
+
+    setInterval(desenhar,5);
+
+
+    </script>
